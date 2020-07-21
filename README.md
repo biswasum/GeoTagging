@@ -1,9 +1,9 @@
 # GeoTagging
-To make relevant hyper personalization card offers to customers using their addresses basis MMI geocode  services and maximize cross sell opportunities.
-
+To make relevant hyper personalization card offers to customers using their addresses basis  geocode services and maximize cross sell opportunities.
+Geo-tagging is the process of adding physical location data to various forms of media. The data usually includes latitude and longitude but can also include altitude, distance, and place nam
 In the digital era Hyper personalization is the baseline for addressing  customer demands  with more individualized experience in terms of products, services,content  etc.
-Today’s customers want to engage with brands that can:
-Instantly identify them
+
+Today’s customers want to engage with brands that can instantly identify them
 Have immediate access to information about every interaction, on every channel(mobile, website,apps etc.)
 Based on the data,understand their issue and know how to solve it
 
